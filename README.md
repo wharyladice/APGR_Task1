@@ -1,6 +1,6 @@
 # APGR1 Assignment 01
 
-Java/Swing raster graphics project. No external libraries are required.
+Java/Swing raster graphics project.
 
 ## Run
 
